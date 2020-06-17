@@ -166,3 +166,18 @@ iframe {
     font-size: 20px;
     line-height: 30px;
 }
+
+/*---COURSE PAGE---*/
+.course {
+    height: 500px;
+    width: 800px;
+    margin: 50px auto;
+    position: relative;
+    background-color: white;
+}
+
+.course iframe {
+    position: absolute;
+    top: 25px;
+    bottom: 25px;
+}
